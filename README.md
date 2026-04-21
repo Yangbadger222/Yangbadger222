@@ -14,7 +14,6 @@
 
 ```yaml
 name: Badger
-location: United States
 education: XJTLU (Xi'an Jiaotong-Liverpool University)
 interests:
   - Robotics & ROS2
@@ -68,28 +67,17 @@ blog: https://badgerlog.icu
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Yangbadger222/emotion_bot">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=emotion_bot&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Yangbadger222/hackaphon">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=hackaphon&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Yangbadger222/XJTLU-Food-Recommendation-System">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=XJTLU-Food-Recommendation-System&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Yangbadger222/robo-agent">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=robo-agent&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Yangbadger222/steel-cable-pressure-detection">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=steel-cable-pressure-detection&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Yangbadger222/IK-learning-note">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=IK-learning-note&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
+
+| &nbsp; | Project | Description | Tech |
+|:------:|:--------|:------------|:----:|
+| ⭐ 5 | [**Emotion Bot**](https://github.com/Yangbadger222/emotion_bot) | AI emotion chatbot with RoBERTa + RAG | ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| ⭐ 4 | [**Hackathon**](https://github.com/Yangbadger222/hackaphon) | Hackathon competition project | ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| ⭐ 3 | [**Food Rec System**](https://github.com/Yangbadger222/XJTLU-Food-Recommendation-System) | XJTLU campus food recommendation | ![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| ⭐ 2 | [**IK Notes**](https://github.com/Yangbadger222/IK-learning-note) | Inverse kinematics learning materials | ![](https://img.shields.io/badge/-Docs-0075CA?style=flat-square&logo=bookstack&logoColor=white) |
+| &nbsp; | [**Robo Agent**](https://github.com/Yangbadger222/robo-agent) | Robotic agent system | ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| &nbsp; | [**Cable Detection**](https://github.com/Yangbadger222/steel-cable-pressure-detection) | Steel cable pressure detection | ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| &nbsp; | [**ESG**](https://github.com/Yangbadger222/ESG) | ESG analysis project | ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
 </div>
 
 <br>
