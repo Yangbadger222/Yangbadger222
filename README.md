@@ -12,7 +12,6 @@
 
 ```yaml
 name: Badger
-location: United States
 education: XJTLU (Xi'an Jiaotong-Liverpool University)
 interests:
   - Robotics & ROS2
