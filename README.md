@@ -12,6 +12,7 @@
 
 ```yaml
 name: Badger
+location: United States
 education: XJTLU (Xi'an Jiaotong-Liverpool University)
 interests:
   - Robotics & ROS2
@@ -60,34 +61,44 @@ blog: https://badgerlog.icu
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Yangbadger222/emotion_bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=emotion_bot&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Yangbadger222/hackaphon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=hackaphon&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Yangbadger222/XJTLU-Food-Recommendation-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=XJTLU-Food-Recommendation-System&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Yangbadger222/robo-agent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=robo-agent&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Yangbadger222/steel-cable-pressure-detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=steel-cable-pressure-detection&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Yangbadger222/IK-learning-note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=IK-learning-note&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Yangbadger222/emotion_bot">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=emotion_bot&theme=tokyonight&hide_border=true&border_radius=12" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Yangbadger222/hackaphon">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=hackaphon&theme=tokyonight&hide_border=true&border_radius=12" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Yangbadger222/XJTLU-Food-Recommendation-System">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=XJTLU-Food-Recommendation-System&theme=tokyonight&hide_border=true&border_radius=12" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Yangbadger222/robo-agent">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=robo-agent&theme=tokyonight&hide_border=true&border_radius=12" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Yangbadger222/steel-cable-pressure-detection">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=steel-cable-pressure-detection&theme=tokyonight&hide_border=true&border_radius=12" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Yangbadger222/IK-learning-note">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yangbadger222&repo=IK-learning-note&theme=tokyonight&hide_border=true&border_radius=12" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -143,17 +154,3 @@ blog: https://badgerlog.icu
 
 </div>
 
-<!--
-**Yangbadger222/Yangbadger222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
