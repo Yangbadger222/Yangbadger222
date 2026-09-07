@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title desc">
+  <title id="title">Still figuring things out</title>
+  <desc id="desc">A hand-drawn route line from start to question mark on warm notebook paper.</desc>
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#8ea6a7" stroke-opacity="0.14" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="170" rx="14" fill="#f4eee2"/>
+  <rect width="1200" height="170" rx="14" fill="url(#grid)"/>
+  <path d="M85 93 C190 28 287 145 399 85 C502 30 580 130 677 80 C785 25 882 133 1006 74" fill="none" stroke="#b66d67" stroke-width="5" stroke-linecap="round" stroke-dasharray="13 11"/>
+  <circle cx="84" cy="93" r="10" fill="#f4eee2" stroke="#b66d67" stroke-width="5"/>
+  <circle cx="1008" cy="73" r="10" fill="#f4eee2" stroke="#b66d67" stroke-width="5"/>
+  <text x="47" y="130" fill="#4b4a46" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">START</text>
+  <text x="1025" y="82" fill="#465c62" font-family="'Segoe Print','Comic Sans MS',cursive" font-size="44">?</text>
+  <text x="418" y="151" fill="#465c62" font-family="'Segoe Print','Comic Sans MS',cursive" font-size="23">still figuring things out →</text>
+  <text x="718" y="35" fill="#6d5f58" font-family="'Segoe Print','Comic Sans MS',cursive" font-size="18" transform="rotate(-3 718 35)">same curiosity, different problems.</text>
+</svg>
