@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Badger's field notes</title><desc id="desc">A hand drawn collage of a robot, stars, route lines and a notebook label.</desc>
+  <defs>
+    <filter id="paper"><feTurbulence type="fractalNoise" baseFrequency=".75" numOctaves="3" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 .45 0 0 0 0 .26 0 0 0 0 .22 0 0 0 .06 0"/></filter>
+    <filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#3b2734" flood-opacity=".22"/></filter>
+    <style>
+      .ink{fill:none;stroke:#342535;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+      .thin{fill:none;stroke:#342535;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+      .label{font:700 28px 'Trebuchet MS',sans-serif;letter-spacing:4px;fill:#342535}
+      .small{font:600 17px 'Trebuchet MS',sans-serif;letter-spacing:2px;fill:#342535}
+    </style>
+  </defs>
+  <rect width="1200" height="520" rx="24" fill="#f4e8d5"/>
+  <rect width="1200" height="520" rx="24" filter="url(#paper)" opacity=".45"/>
+  <path d="M0 405 Q165 330 310 390 T615 375 T900 360 T1200 386" fill="none" stroke="#cf7563" stroke-width="10" opacity=".5"/>
+  <path d="M45 90 C130 58 192 124 270 81 S420 61 500 101" class="thin" opacity=".65"/>
+  <path d="M840 83 q40-48 81 0 q41 48 82 0 q41-48 80 0" class="thin" opacity=".55"/>
+  <g transform="translate(122 122) rotate(-6)" filter="url(#shadow)">
+    <rect width="365" height="250" rx="8" fill="#fffaf0"/>
+    <path d="M24 30 h150 M24 55 h205 M24 80 h178" stroke="#d5bca8" stroke-width="4"/>
+    <text x="25" y="130" class="label">FIELD NOTE 01</text>
+    <text x="25" y="170" class="small">ROBOTICS / AI / PLAY</text>
+    <path d="M26 204 q55-28 100 0 t100 0 t105 0" class="thin" stroke="#cf7563"/>
+  </g>
+  <g transform="translate(712 104) rotate(5)" filter="url(#shadow)">
+    <rect width="310" height="295" rx="8" fill="#e4c7d8"/>
+    <rect x="22" y="22" width="266" height="210" rx="4" fill="#a7c9c0"/>
+    <path d="M48 179 q45-75 90-3 q48-95 115-12" class="ink"/>
+    <circle cx="95" cy="103" r="27" class="ink"/><circle cx="214" cy="92" r="16" class="thin"/>
+    <path d="M55 259 h200" class="thin"/><text x="55" y="278" class="small">SOMEDAY / SOMEWHERE</text>
+  </g>
+  <g transform="translate(505 194)">
+    <path d="M45 115 C120 42 171 41 239 92 S348 166 430 86" class="ink" stroke-dasharray="10 14"/>
+    <path d="M45 115 l-25-9 18 25z M430 86 l19-17-3 27z" fill="#342535"/>
+    <circle cx="168" cy="62" r="7" fill="#cf7563"/><circle cx="285" cy="133" r="7" fill="#5b3c78"/>
+  </g>
+  <g transform="translate(565 72)" class="ink">
+    <path d="M10 18 l7 16 17 2-13 11 4 18-15-9-15 9 4-18-13-11 17-2z" fill="#e3a34b"/>
+    <path d="M84 7 l5 12 13 2-10 8 3 14-11-7-11 7 3-14-10-8 13-2z" fill="#e3a34b"/>
+  </g>
+</svg>
