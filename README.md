@@ -2,7 +2,7 @@
 
 <img src="./assets/field-notes.svg" alt="Badger's hand-drawn field notes" width="100%" />
 
-# BADGER · 杨子豪
+# BADGER
 
 ### I build machines that notice things.
 
